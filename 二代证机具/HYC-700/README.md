@@ -3,17 +3,16 @@
 
 居民身份证安全控制模块分大模块、小模块、嵌入式模块、微模块四类。**大模块**适用于桌面式（台式）设备；**小模块**适用于小型化查验设备、手持设备；**嵌入式模块**集成射频通信功能，适用于移动终端、平板等设备；**微模块**适用于网络应用。
 
-![img](http://openlinker.cn/assets/images/module00-14a65525ed1ed7e7cc89d5bc4ada6b0f.png)
+<img src="./img/module00.png" />
 
 ## 二、HYC-700
 
 HYC-700是采用大模块的一款内置式居民身份证阅读机具。 支持USB、UART通信。 CPU卡、M1卡功能可选。
 
 ### 2.1 读卡板、天线板3D图
-
-![img](http://openlinker.cn/assets/images/HYC-70001-1c2fbd85f4be35ff52fef9f4699342d7.png)
-![img](http://openlinker.cn/assets/images/HYC-70002-67776db57491e34fd8131dd58a1bb817.png)
-![img](http://openlinker.cn/assets/images/HYC-70003-7986e3d2108c0928292193ffa90502c7.png)
+<img src="./img/HYC-70001.png" />
+<img src="./img/HYC-70002.png" />
+<img src="./img/HYC-70003.png" />
 
 ### 2.2 产品参数
 

@@ -15,5 +15,4 @@ allowfullscreen="false">
 
   [点我打开:link:](http://113.128.45.158:8015/) 
 
-  <img src="http://openlinker.cn/assets/images/linker-79b7e026a32b4d1d8ad85bc1186b38fa.gif" alt="show" />
-  
+  <img src="./img/linker.gif"/>

@@ -3,17 +3,18 @@
 
 居民身份证安全控制模块分大模块、小模块、嵌入式模块、微模块四类。**大模块**适用于桌面式（台式）设备；**小模块**适用于小型化查验设备、手持设备；**嵌入式模块**集成射频通信功能，适用于移动终端、平板等设备；**微模块**适用于网络应用。
 
-![img](http://openlinker.cn/assets/images/module00-14a65525ed1ed7e7cc89d5bc4ada6b0f.png)
+
+<img src="./img/module00.png" />
 
 ## 二、嵌入式居民身份证安全控制模块机械尺寸图
 
-![img](http://openlinker.cn/assets/images/module01-bb99c3eff3c5f707bee197e03678dada.png)
+<img src="./img/module01.png" />
 
 ## 三、HYC-100
 
 HYC-100是采用嵌入式居民身份证安全控制模块的一款内置式居民身份证阅读机具，已通过中国安全技术防范认证中心（CSP）认证。
 
-![img](http://openlinker.cn/assets/images/HYC-10001-d357fd7439556b98b5d8d541fd66e31a.png)
+<img src="./img/HYC-10001.png" />
 
 ### 3.1 产品参数
 
